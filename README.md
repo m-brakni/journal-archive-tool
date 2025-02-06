@@ -1,6 +1,6 @@
-# Log Archive Tool
+# Journal Archive Tool
 
-Un outil pour collecter, stocker et consulter des logs de manière efficace.
+Un outil pour archiver et consulter des journaux (logs) de manière efficace.
 
 ## Fonctionnalités
 - Collecte des logs depuis des fichiers ou des flux.
@@ -11,4 +11,4 @@ Un outil pour collecter, stocker et consulter des logs de manière efficace.
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/ton-utilisateur/log-archive-tool.git
+   git clone https://github.com/m-brakni/journal-archive-tool.git
