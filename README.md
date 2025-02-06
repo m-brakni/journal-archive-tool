@@ -41,7 +41,7 @@ cd journal-archive-tool
  ```bash
 pip install -r requirements.txt
 
-🛠 Usage
+## 🛠 Usage
 Collect and Store Logs
 
     Place your log files in the project directory (e.g., app.log).
